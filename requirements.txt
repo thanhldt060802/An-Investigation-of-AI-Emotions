@@ -1,0 +1,7 @@
+openai==0.28
+python-dotenv
+numpy
+transformers
+torch
+fastapi
+uvicorn
