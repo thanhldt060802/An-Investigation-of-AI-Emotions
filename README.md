@@ -3,7 +3,7 @@ Truy cập trang chủ OpenAI để tạo API_KEY, sau khi tạo API_KEY, gán n
 Ngoài ra còn có thể điều chỉnh các mô hình được cho phép để có thể sử dụng bởi API_KEY (phụ thuộc vào tài khoản)
 <br><br>
 
-Sử dụng phin6 bản Python yêu cầu là 3.13.1
+Sử dụng phiên bản Python yêu cầu là 3.13.1
 <br><br>
 Tại thư mục dự án chạy lệnh sau để kích hoạt môi trường ảo trên dự án: <br>
 Scripts\activate.bat
